@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /maths/
+permalink: /mathsJournal/
 title: "maths"
 author_profile: true
 header:
