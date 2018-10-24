@@ -5,7 +5,7 @@ Tags: [travel]
 excerpt: "Camping in Brecon, Wales"
 ---
 
-A selection of photos made while camping in Brecon, Wales. All photos taken with Lumix Lx3.  
+Photos taken while camping in Brecon, Wales. All photos taken with Lumix Lx3.  
 
 ![CampingWales2011p1](/images/photograph/CampingWales2011p1.png "CampingWales2011p1")
 ![CampingWales2011p2](/images/photograph/CampingWales2011p2.png "CampingWales2011p2")
