@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "posts"
+    url: /
   - title: "about"
     url: /about/
   - title: "numbers"
