@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Visitor19 Site"
 title_separator          : "-"
 name                     : "Visitor19"
-description              : "Maths and Travels etc"
+description              : "Maths and Travels"
 url                      : https://visitor19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Visitor19"
   avatar           : "images/profileImage.jpg"
-  bio              : "Maths; Code; Travel and Space"
+  bio              : "Maths; Code; Travel"
   location         : "Earth"
   email            :
   links:
