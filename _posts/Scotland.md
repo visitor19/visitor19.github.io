@@ -14,8 +14,7 @@ it running (Toyota's are supposed to be very reliable?) I absolutely love this c
 
 My camping equipment included a Vangaurd 2 person tent which I had not tested before travel! A Rab sleeping bag, groundmap, stove, half a dozen food ration packs and a whisky flash. For entertainment I brought my spanish tuition cds for the car (I figured traveling and learning Spanish would be a great combination) and an Irish tin whisle for camping.
 
-I set off from Bristol just before 3pm and headed straight up the M5/M6 North towards Edinburgh. I made a number of service station rest stops on the way and arrived around 11pm. My first night on the road concluded with a pint of Guinness in a bar chatting to people from Ireland who had travelled to Scotland for the
-comedy festival.  
+I set off from Bristol just before 3pm and headed straight up the M5/M6 North towards Edinburgh. I made a number of service station rest stops on the way and arrived around 11pm. My first night on the road concluded with a pint of Guinness in a bar chatting to people from Ireland who had travelled to Scotland for the comedy festival.  
 
 ![Edinburgh01](/images/photograph/Edinburgh01.png "Edinburgh01")
 ![Edinburgh02](/images/photograph/Edinburgh02.png "Edinburgh02")
