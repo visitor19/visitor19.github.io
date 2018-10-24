@@ -10,7 +10,6 @@ at Chalet Roc Soleil run by tgski and hosted by the fabulous Sarah. All photos t
 
 ![Snowboarding01](/images/photograph/Snowboarding01.png "Snowboarding01")
 ![Snowboarding02](/images/photograph/Snowboarding02.png "Snowboarding02")
-![Snowboarding03](/images/photograph/Snowboarding03.png "Snowboarding03")
 
 ![Snowboarding04](/images/photograph/Snowboarding04.png "Snowboarding04")
 ![Snowboarding05](/images/photograph/Snowboarding05.png "Snowboarding05")
