@@ -1,6 +1,6 @@
 ---
 title: "Camping in Brecon, Wales"
-date: 2017-11-01
+date: 2011-11-01
 Tags: [travel]
 excerpt: "Camping in Brecon, Wales"
 ---
