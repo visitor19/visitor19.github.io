@@ -4,7 +4,7 @@ permalink: /maths/
 title: "maths"
 author_profile: true
 header:
-  image: "/images/about.png"
+  image: /images/about.png
 ---
 
 {% include base_path %}
