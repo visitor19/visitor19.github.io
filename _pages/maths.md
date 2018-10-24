@@ -1,9 +1,10 @@
+---
 title: maths
 permalink: /maths/
 author_profile: true
 header:
   image: @/images/about.png
-
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
