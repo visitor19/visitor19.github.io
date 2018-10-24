@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Visitor19"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/profileImage.jpg"
   bio              : "Maths; Code; Travel"
   location         : "Earth"
   email            :
@@ -296,4 +296,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
