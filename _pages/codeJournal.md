@@ -7,4 +7,4 @@ header:
   image: /images/about.png
 ---
 
->This page will list all my software dev related posts. 
+>This page will list my software dev related posts. 

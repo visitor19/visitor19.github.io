@@ -8,6 +8,8 @@ main:
     url: /mathsJournal/
   - title: "code"
     url: /codeJournal/
+  - title: "places"
+    url: /travelJournal/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
