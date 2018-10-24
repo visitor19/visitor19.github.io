@@ -1,0 +1,19 @@
+---
+title: "Coulomb"
+date: 2018-10-01
+tags: [maths]
+excerpt: "Electrostatics-1"
+mathjax: true
+---
+
+| Particle      | Charge        | Force |
+| ------------- |:-------------:| -----:|
+| Proton        | +             | 1     |
+| Electron      | -             | 1     |
+| Neutron       | 0             | 1     |
+
+$$\vec{F_{12}} = k_{elec} \frac{q1 q2}{r_{12}}\hat{r_{12}}$$
+
+Where $$k_{elec}$$ $$\implies$$ Permittivity of free space. Hence;
+
+$$k_{elec}= \frac{1}{4\pi\epsilon_0}$$
