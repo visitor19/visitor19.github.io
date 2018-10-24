@@ -1,0 +1,49 @@
+---
+Title: A month in India
+Date: 2017-02-10 9:33
+Category: Journal  
+Tags: Travel
+Slug: India-Jan2k17   
+Author: Variable47
+cover: /images/India-Jan2k17Summary.png
+Summary: A month in India. Traveling through Goa, Kerela and Hampi.
+---
+
+A month in India. Traveling through Goa, Kerela and Hampi. This was my second visit to India. In 2015 I spent two weeks, Starting in Mumbai and travelling by train to Rishikesh, in between reaching this destination I visited Delhi, Agra and Jaipur. On this trip I wanted to visit the south of India, I had heard lots about Goa, Kerela and Hampi.
+
+
+![India01]({filename}/images/photograph/India01.png "India01")
+![India02]({filename}/images/photograph/India02.png "India02")
+![India03]({filename}/images/photograph/India03.png "India03")
+
+![India04]({filename}/images/photograph/India04.png "India04")
+![India05]({filename}/images/photograph/India05.png "India05")
+![India06]({filename}/images/photograph/India06.png "India06")
+
+![India07]({filename}/images/photograph/India07.png "India07")
+![India08]({filename}/images/photograph/India08.png "India08")
+![India09]({filename}/images/photograph/India09.png "India09")
+
+![India10]({filename}/images/photograph/India10.png "India10")
+![India11]({filename}/images/photograph/India11.png "India11")
+![India12]({filename}/images/photograph/India12.png "India12")
+
+![India13]({filename}/images/photograph/India13.png "India13")
+![India14]({filename}/images/photograph/India14.png "India14")
+![India15]({filename}/images/photograph/India15.png "India15")
+
+![India16]({filename}/images/photograph/india16.png "India16")
+![India17]({filename}/images/photograph/India17.png "India17")
+![India18]({filename}/images/photograph/India18.png "India18")
+
+![India19]({filename}/images/photograph/India19.png "India19")
+![India20]({filename}/images/photograph/India20.png "India20")
+![India21]({filename}/images/photograph/India21.png "India21")
+
+![India22]({filename}/images/photograph/India22.png "India22")
+![India23]({filename}/images/photograph/India23.png "India23")
+![India24]({filename}/images/photograph/India24.png "India24")
+
+![India25]({filename}/images/photograph/India25.png "India25")
+![India26]({filename}/images/photograph/India26.png "India26")
+![India27]({filename}/images/photograph/India27.png "India27")
