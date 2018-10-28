@@ -11,6 +11,12 @@ I'm an explorer of time and space.
 
 To-Do:
 
+```python
+  def hello(human):
+    print("Hello"+human)
+    return
+```
+
 Having made the move from Pelican to Jeykll and hosting from AWS to Github pages there are a few things that I will need to investigate.
 
 1. Would it be worth moving to Gitlab to gain support for mermaid diagrams?
@@ -31,4 +37,4 @@ Things I intend to post:
    - Reference Post: Configuring this blog
    - Reference Post: Creating a development env in a docker container.
    - Reference Post: Project Object Model
-   - Reference Post: Java;Cucumber;Selenium Automation Hacks/Notes 
+   - Reference Post: Java;Cucumber;Selenium Automation Hacks/Notes
