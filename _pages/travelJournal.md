@@ -4,7 +4,7 @@ permalink: /travelJournal/
 title: "Travel Journal Posts"
 author_profile: true
 header:
-  image: /images/fractalLines02.jpg
+  image: /images/fractalLines02.png
 ---
 
 >This page will list my travel related posts.

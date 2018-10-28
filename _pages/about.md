@@ -2,7 +2,7 @@
 title: "about"
 permalink: /about/
 header:
-  image: "/images/about.png"
+  image: "/images/blackcircle001.png"
 ---
 
 I'm an explorer of time and space.
