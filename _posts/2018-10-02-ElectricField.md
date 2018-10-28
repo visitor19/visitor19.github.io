@@ -1,0 +1,62 @@
+---
+title: "The Electric Field"
+date: 2018-10-02
+tags: [maths]
+excerpt: "Electrostatics-2"
+mathjax: true
+---
+
+Charge is a property of certain elementary particles. It allows particles to exert and experience electromagnetic forces. Charge manifests in two types 1. Positive 2. Negative. Like charges exert and experience repulsive forces. Opposite charges exert and experience attractive forces.
+
+Key Points regarding Charge:
+* Quantized.
+* Scalar.
+* Additive.
+* Conserved.
+* Invariant.  
+* Electromagnetic forces decrease as an inverse square of distance between charges.
+
+Over short distances the strong and weak nuclear forces are larger in magnitude than the electromagnetic force.  At separations greater than $$10^{-12}$$ metres the electromagnetic force is stronger. As most matter in the universe has a neutral net charge; the attractive force of gravity is able to dominate.
+
+| Elementary Particle | Charge  |
+| ------------- |:-------------:|
+| Electron      | -e            |
+| Muon          | -e            |
+| Tauon         | -e            |
+| Proton        | +e            |
+| Neutron       | 0             |
+| Neutrino      | 0             |
+| Photon        | 0             |
+| W+ Boson      | +e            |
+| W- Boson      | -e            |
+| Up Quark      | +2e/3         |
+| Charm Quark   | +2e/3         |
+| Top Quark     | +2e/3         |
+| Down Quark    | -e/3          |
+| Strange Quark | -e/3          |
+| Bottom Quark  | -e/3          |
+
+Coulomb's law applies to forces between point charges that are at rest. Stationary charges (relative to your frame of reference) can not experience magnetic forces.
+
+>The electrostatic force between two stationary point charges acts along their line of separation; it is repulsive for charges of the same sign and attractive for charges of the opposite sign. The magnitude of the forces is proportional to the product of the charges and is inversely proportional to the square of the distance between them.
+
+The electrostatic force acting on charge $$1$$ due to charge $$2$$ is given as;
+
+$$\vec{F_{12}} = k_{elec} \frac{q1 q2}{r_{12}}\hat{r_{12}}$$
+
+Where the proportionality constant $$k_{elec}$$ $$\implies$$ Permittivity of free space. Hence;
+
+$$k_{elec}= \frac{1}{4\pi\epsilon_0}$$
+
+$$k_{elec}$$ has the value $$8.99 \times 10^9 N M^2 C^{-2}$$
+
+Electrostatic forces may be added. Hence;
+
+$$\vec{F_{i}} = k_{elec} \Sigma_{j\neq{i}}\frac{q_i q_j}{|\vec{r_{i}}-\vec{r_{j}}|^3}{(\vec{r_{i}}-\vec{r_{j}})}$$
+
+Note this is only valid if particle $$i$$ and all other relevant particles $$j$$ have known charges and positions.
+
+>Evidence for Coulomb's law:
+
+>Limitations:
+Screening; Polarization
