@@ -11,4 +11,5 @@ The problem: Given a particle with a known net charge. Is it possible to calcula
 >Concept of a field.
 >Concept of a test charge.
 >Electric Field Lines.
->Electric Dipole. 
+>Electric Dipole.
+>Capacitor. 
