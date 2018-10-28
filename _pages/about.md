@@ -7,7 +7,7 @@ header:
 
 I'm an explorer of time and space.
 
-![Comic Image](/images/comic1.jpg){:class="img-responsive"  .center-image}
+![Comic Image](/images/comic1.jpg){:.align-center}
 
 To-Do:
 
