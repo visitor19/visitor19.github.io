@@ -13,7 +13,7 @@ To-Do:
 
 ```python
   def hello(human):
-    print("Hello"+human)
+    print("Hello "+human)
     return
 ```
 
