@@ -4,7 +4,7 @@ permalink: /codeJournal/
 title: "Code Journal Posts"
 author_profile: true
 header:
-  image: /images/about.png
+  image: /images/blackcircle001.png
 ---
 
->This page will list my software dev related posts. 
+>This page will list my software dev related posts.
