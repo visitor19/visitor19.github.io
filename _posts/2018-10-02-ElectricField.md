@@ -18,7 +18,7 @@ The magnitude E of the electric field is called the electric field strength.
 
 $$E = |\vec{E}| = \sqrt{E_x^2+E_y^2+E_z^2}$$
 
-
+>Note: The field is defined at any point $$\vec{r}$$ that is not coincident with one of the source charges; at the source charge themselves, it is undefined. 
 
 >Concept of a field.
 >Concept of a test charge.
