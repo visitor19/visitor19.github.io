@@ -20,6 +20,7 @@ Run time exceptions
 | SQLException  | -e                  |
 
 
+Input: 
 ```java
   public class exampleException{
     public static void main(String[] args){
@@ -27,8 +28,14 @@ Run time exceptions
       int b = 0;
       int r = 0;
       try {
-        r = a/c; }
+        r = a/b; }
       catch(Exception e){
         System.out.println(e);}
       System.out.println(r);}}
+```
+
+
+Output:
+```xml
+java.lang.ArithmeticException: / by zero
 ```
