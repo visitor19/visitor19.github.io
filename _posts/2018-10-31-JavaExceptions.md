@@ -22,8 +22,9 @@ Run time exceptions
 
 The integer r has been set initially to 7. In the examples below we can see when the value of r prints as 7 it means that the code in the try-catch did not execute and that r is still at it's initial value.
 
-##Input:
-Example: Divide by zero error with no handled exception.
+#### Example: Divide by zero error with no handled exception.
+
+Input:
 ```java
 public class exampleException{
   public static void main(String[] args){
@@ -40,8 +41,8 @@ Exception in thread "main" java.lang.ArithmeticException: / by zero
 ```
 Note that the code with the print statement "This code executes outside"... did not execute.
 
-##Input:
-Example: Divide by zero error with handled exception.
+#### Example: Divide by zero error with handled exception.
+Input:
 ```java
   public class exampleException{
     public static void main(String[] args){
@@ -62,8 +63,8 @@ java.lang.ArithmeticException: / by zero
 This code executes outside of the try-catch and after the exception is encountered. The value of r is 7
 ```
 
-##Input:
-Example: Divide by zero error with handled exception. Upon catching the error this time printing friendly a message instead of the error.
+#### Example: Divide by zero error with handled exception. Upon catching the error this time printing friendly a message instead of the error.
+Input:
 ```java
 public class exampleException{
    public static void main(String[] args){
