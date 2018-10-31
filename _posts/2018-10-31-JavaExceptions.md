@@ -20,7 +20,7 @@ Run time exceptions
 | SQLException  | -e                  |
 
 
-Input: 
+Input:
 ```java
   public class exampleException{
     public static void main(String[] args){
@@ -37,5 +37,27 @@ Input:
 
 Output:
 ```xml
+Successfully compiled /tmp/java_hNhMG0/exampleException.java <-- main method
 java.lang.ArithmeticException: / by zero
+```
+
+Input:
+```java
+  public class exampleException{
+    public static void main(String[] args){
+      int a = 1;
+      int b = 0;
+      int r = 0;
+      try {
+        r = a/b; }
+      catch(Exception e){
+        System.out.println("You can not divide by zero.");}
+      System.out.println(r);}}
+```
+
+
+Output:
+```xml
+Successfully compiled /tmp/java_hNhMG0/exampleException.java <-- main method
+You can not divide by zero.
 ```
