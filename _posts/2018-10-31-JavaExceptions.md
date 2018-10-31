@@ -19,6 +19,21 @@ Run time exceptions
 | IOExeption    | Runtime Exception   |
 | SQLException  | -e                  |
 
+```java
+public class exampleException{
+  public static void main(String[] args){
+    int a = 1;
+    int b = 0;
+    int r = 0;
+    r = a/b;
+    System.out.println(r);}}
+```
+Output:
+```xml
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at exampleException.main(exampleException.java:6)
+```
+
 
 Input:
 ```java
@@ -37,7 +52,6 @@ Input:
 
 Output:
 ```xml
-Successfully compiled /tmp/java_hNhMG0/exampleException.java <-- main method
 java.lang.ArithmeticException: / by zero
 ```
 
@@ -58,6 +72,5 @@ Input:
 
 Output:
 ```xml
-Successfully compiled /tmp/java_hNhMG0/exampleException.java <-- main method
 You can not divide by zero.
 ```
