@@ -21,10 +21,8 @@ Run time exceptions
 
 
 ```java
-  public class exampleException
-  {
-    public static void main(String[] args)
-    {
+  public class exampleException{
+    public static void main(String[] args){
       int a = 1;
       int b = 0;
       int r = 0;
@@ -32,7 +30,5 @@ Run time exceptions
         r = a/c; }
       catch(Exception e){
         System.out.println(e);}
-
-      System.out.println(r);}
-    }
+      System.out.println(r);}}
 ```
