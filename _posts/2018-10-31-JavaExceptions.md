@@ -19,21 +19,25 @@ Run time exceptions
 | IOExeption    | Runtime Exception   |
 | SQLException  | -e                  |
 
+
+The integer r has been set initially to 7. In the examples below we can see when the value of r prints as 7 it means that the code in the try-catch did not execute and that r is still at it's initial value. 
+
+Input:
 ```java
 public class exampleException{
   public static void main(String[] args){
     int a = 1;
     int b = 0;
-    int r = 0;
+    int r = 7;
     r = a/b;
-    System.out.println(r);}}
+     System.out.println("This code executes outside of the try-catch and after the exception is encountered. The value of r is "+r);}}
 ```
 Output:
 ```xml
 Exception in thread "main" java.lang.ArithmeticException: / by zero
 	at exampleException.main(exampleException.java:6)
 ```
-
+Note that the code with the print statement "This code executes outside"... did not execute.
 
 Input:
 ```java
@@ -41,36 +45,59 @@ Input:
     public static void main(String[] args){
       int a = 1;
       int b = 0;
-      int r = 0;
+      int r = 7;
       try {
         r = a/b; }
       catch(Exception e){
         System.out.println(e);}
-      System.out.println(r);}}
+     System.out.println("This code executes outside of the try-catch and after the exception is encountered. The value of r is "+r);}}
 ```
 
 
 Output:
 ```xml
 java.lang.ArithmeticException: / by zero
+This code executes outside of the try-catch and after the exception is encountered. The value of r is 7
 ```
 
 Input:
 ```java
-  public class exampleException{
-    public static void main(String[] args){
-      int a = 1;
-      int b = 0;
-      int r = 0;
-      try {
-        r = a/b; }
-      catch(Exception e){
-        System.out.println("You can not divide by zero.");}
-      System.out.println(r);}}
+public class exampleException{
+   public static void main(String[] args){
+     int a = 1;
+     int b = 0;
+     int r = 7;
+     try {
+       r = a/b; }
+     catch(Exception e){
+       System.out.println(e);}
+     System.out.println("This code executes outside of the try-catch and after the exception is encountered. The value of r is "+r);}}
 ```
 
 
 Output:
 ```xml
-You can not divide by zero.
+java.lang.ArithmeticException: / by zero
+This code executes outside of the try-catch and after the exception is encountered. The value of r is 7
+```
+
+Input:
+```java
+public class exampleException{
+   public static void main(String[] args){
+     int a = 1;
+     int b = 0;
+     int r = 7;
+     try {
+       r = a/b; }
+     catch(Exception e){
+       System.out.println("You can not divide a number by zero.");}
+     System.out.println("This code executes outside of the try-catch and after the exception is encountered. The value of r is "+r);}}
+```
+
+
+Output:
+```xml
+You can not divide a number by zero.
+This code executes outside of the try-catch and after the exception is encountered. The value of r is 7
 ```
