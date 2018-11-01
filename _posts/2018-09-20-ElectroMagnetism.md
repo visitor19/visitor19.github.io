@@ -22,10 +22,10 @@ An atom holds on to it's electrons; but in some materials the final shell (known
 
 Atoms which can pass free electrons are known as conductors. Most metals are conductors. Atoms which cannot pass free electrons are known as insulators. Glass and Rubber are examples of insulators.
 
-The flow of electrons (Negative Charge) is called Current. 1 Amp is equal to 1 Coulomb and 1 Coulomb is equal to 6,242,000,000,000,000,000 electrons per second. As electrons flow away from negative charges and towards positive charges; current flows from negative to positive.  
+The flow of electrons (Negative Charge) is called Current. 1 Amp is equal to 1 Coulomb and 1 Coulomb is equal to 6,242,000,000,000,000,000 electrons per second. As electrons flow away from negative charges and towards positive charges; electric current flows from negative to positive.  
 
 Voltage is a pushing force of electrons. In a conductor without an applied voltage the free electrons will pass from atom to atom in a random manner and in no particular direction.
 
-An applied voltage will force the free electrons to move in the same direction. Flowing from negative to positive, or from high potential to low potential.  
+An applied voltage will force the free electrons to move in the same direction. Flowing from negative to positive; from high potential (many electrons) to low potential (fewer electrons).  
 
 The higher the voltage the more electrons can flow. 1 Volt = 1 Joule per Coulomb. A joule being a unit of energy and a Coulomb being a unit of charge (i.e number of electrons).
