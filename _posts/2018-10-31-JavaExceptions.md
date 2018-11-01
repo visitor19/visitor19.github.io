@@ -10,6 +10,11 @@ mathjax: true
 >Checked / Unchecked Exceptions
 
 
+If an error occurs during program execution the program will not complete and instead terminate at the point of error.
+
+We might want to do the following; catch and handle an error type using a Try:Catch. This allows us to handle any exceptions without program execution terminating. In other cases we may just want to suppress the error without handling it. We can do this using the 'throws' keyword. Finally, we can trow an exception by using throws or create our own exception by extending the Exception class and then using throws. 
+
+
 Normal Statements; Critical Statement
 Unchecked:
 Run time exceptions
